@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/john-newton_william-cowper/olney-hymns</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-21T17:47:50Z</dc:date>
+		<meta property="dcterms:modified">2026-04-21T17:47:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,17 +35,16 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of hymns written by John Newton and William Cowper.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-newton"&gt;John Newton&lt;/a&gt; was well known from his autobiography for being a slave trader and for his dramatic conversion to Christianity. After his conversion, he studied to be a minister. Following his ordination in the Church of England, John Newton received his inaugural appointment to the rural parish of Olney, a community largely inhabited by the impoverished and uneducated.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/william-cowper"&gt;William Cowper&lt;/a&gt; was an eminent poet of the day who suffered bouts of severe depression. It was during one of these periods that he converted to an evangelical Christian faith and moved to Olney in the late &lt;time&gt;1760&lt;/time&gt;s. He and John Newton became friends at Olney and Newton invited him to contribute to the hymnbook he was writing. Because of Cowper’s continued periods of depression, he was only able to contribute a few. Of the 350 hymns in the collection, Cowper provided sixty-six, with Newton authoring the rest.&lt;/p&gt;
-			&lt;p&gt;Cowper’s health delayed publishing until &lt;time&gt;1779&lt;/time&gt;, by which time, the hymns had been widely circulated among evangelical churches. The &lt;i&gt;Olney Hymns&lt;/i&gt; went through more than thirty-seven editions by the 1830s. Several continue to be widely sung, most notably “Amazing Grace,” found in Book I, Hymn 41.&lt;/p&gt;
-			&lt;p&gt;The hymns use simple meters and are easily sung. Newton himself says of them that they were written for “plain people.” The hymns served to teach and comfort the poor of his parish. To this end, the hymns are divided into three books. The first book is subtitled “On Select Texts of Scripture” and affirms the authority of the Bible. The second book is subtitled “On Occasional Subjects” and affirms the relevance and applicability of faith to all of life. The third book is subtitled “On the Progress and Changes of the Spiritual Life” which affirms the need for a spiritual awakening and for a personal relationship with God.&lt;/p&gt;
-			&lt;p&gt;The simplicity of the hymns, their ease of singing, their pedagogical value, their expression of a deep, personal, and fervent faith served that generation of Christian churches well. They deserve to be better known today.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-newton"&gt;John Newton&lt;/a&gt; was a slave trader who had a dramatic conversion to Christianity, after which he studied to be a minister. He was then appointed to the rural parish of Olney, a community largely inhabited by the impoverished and uneducated.&lt;/p&gt;
+			&lt;p&gt;There he met &lt;a href="https://standardebooks.org/ebooks/william-cowper"&gt;William Cowper&lt;/a&gt;, an eminent poet who had moved to Olney after a bout of severe depression led him to convert to evangelical Christianity. He and Newton became friends, and Newton invited him to contribute to a hymnbook he was writing. Due to Cowper’s episodes of depression, he was only able to contribute a few hymns—of the 350, Cowper contributed only sixty-six.&lt;/p&gt;
+			&lt;p&gt;Cowper’s health delayed the book’s publication until 1779, by which time the hymns had been widely circulated among evangelical churches; by 1930, these &lt;i&gt;Olney Hymns&lt;/i&gt; had gone through more than thirty-seven editions. Several of the hymns continue to be widely sung, most notably “Amazing Grace.”&lt;/p&gt;
+			&lt;p&gt;The hymns use simple meters and are easily sung, with Newton himself going so far as to say they were written for “plain people.” Their simplicity, ease of singing, and expression of deep, personal, and fervent faith served generations of Christian churches.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Olney_Hymns_%281840%29</dc:source>
 		<dc:source>https://archive.org/details/olneyhymnsinthre00cowpuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">65453</meta>
+		<meta property="se:reading-ease.flesch">85.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Olney_Hymns</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-newton_william-cowper_olney-hymns</meta>
 		<dc:creator id="author-1">John Newton</dc:creator>
@@ -77,6 +76,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
