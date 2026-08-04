@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85063617</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>A collection of hymns written by John Newton and William Cowper.</dc:abstract>
+		<meta property="schema:abstract">A collection of hymns written by John Newton and William Cowper.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-newton"&gt;John Newton&lt;/a&gt; was a slave trader who had a dramatic conversion to Christianity, after which he studied to be a minister. He was then appointed to the rural parish of Olney, a community largely inhabited by the impoverished and uneducated.&lt;/p&gt;
 			&lt;p&gt;There he met &lt;a href="https://standardebooks.org/ebooks/william-cowper"&gt;William Cowper&lt;/a&gt;, an eminent poet who had moved to Olney after a bout of severe depression led him to convert to evangelical Christianity. He and Newton became friends, and Newton invited him to contribute to a hymnbook he was writing. Due to Cowper’s episodes of depression, he was only able to contribute a few hymns—of the 350, Cowper contributed only sixty-six.&lt;/p&gt;
